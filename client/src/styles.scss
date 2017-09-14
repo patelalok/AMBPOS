@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../node_modules/font-awesome/css/font-awesome.min.css';
+// @import '../node_modules/socicon/css/socicon.css';
+// @import './assets/css/vendor.min.css';
+// @import './scss/theme.scss';
+@import './scss/theme/theme.scss';
+//Don't add global overrides here, go to ./scss/_overrides.scss and put them there!!
